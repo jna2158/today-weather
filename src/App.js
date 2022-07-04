@@ -8,20 +8,27 @@ import "./App.css";
 class App extends React.Component {
   render() {
     return (
-      <>
+      // <div id="wrap">
+      //   <div id="center">
+      //     <div id="top">
+      //       <Search />
+      //       <Today />
+      //     </div>
+      //     <div id="bottom">
+      //       <Weather />
+      //     </div>
+      //   </div>
+      //   <div id="right">
+      //     <WeatherDetails />
+      //   </div>
+      // </div>
+      <div id="wrap">
         <div id="center">
-          <div id="top">
-            <Search />
-            <Today />
-          </div>
-          <div id="bottom">
-            <Weather />
-          </div>
+          <div id="top"></div>
+          <div id="bottom"></div>
         </div>
-        <div id="right">
-          <WeatherDetails />
-        </div>
-      </>
+        <div id="right"></div>
+      </div>
     );
   }
 }
