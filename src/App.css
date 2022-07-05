@@ -26,42 +26,14 @@
   min-height: 100vh;
 }
 
-/* #top {
+#top {
   background-color: blue;
   width: 100%;
+  height: 30vh;
 }
 
 #bottom {
   background-color: blueviolet;
   width: 100%;
-} */
-
-/* #wrap {
-  position: relative;
+  height: 80vh;
 }
-
-#center {
-  position: absolute;
-  background-color: rgba(74, 66, 66);
-  width: 75%;
-  float: left;
-  min-height: 100vh;
-}
-
-#right {
-  position: absolute;
-  background-color: rgba(219, 209, 209, 1);
-  width: 25%;
-  float: right;
-  min-height: 100vh;
-}
-
-#top {
-  background-color: blue;
-  width: 100%;
-}
-
-#bottom {
-  background-color: brown;
-  width: 100%;
-} */
